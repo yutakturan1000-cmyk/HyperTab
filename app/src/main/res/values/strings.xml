@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HyperTap</string>
+    <string name="service_description">Seçilen iki ekrandaki noktaya sırayla dokunur.</string>
+</resources>
